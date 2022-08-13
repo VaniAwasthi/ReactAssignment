@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+
+}
+.headingAlbum{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: medium;
+}
+.outerContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-grow: 50px;
+  }
