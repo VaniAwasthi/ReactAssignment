@@ -23,12 +23,4 @@
   box-shadow: 5px 10px #888888;
   cursor: pointer;
 }
-.nameSection {
-  color: blue;
-  font-weight: bolder;
-  margin-top: 15px;
-  font-size: 1.5em;
-}
-.emailSection {
-  display: flex;
-}
+

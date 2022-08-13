@@ -11,20 +11,7 @@
 .card:hover {
     transform: scale(1.1); 
   }
-.nameSection{
-    color: blue;
-    font-weight: bolder;
-    margin-top: 15px;
-  font-size: 1em;
-}
-
 .imgClass{
     width:200px;
     height: 50px;
-}
-.btnClass{
-    color: white;
-    background-color: blue;
-    padding: 10px;
-    border: 2px solid white;
 }
